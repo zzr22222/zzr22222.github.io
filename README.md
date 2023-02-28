@@ -5,7 +5,7 @@
 
 Hello! 👋  My name is **Zirui Zhao**,but you can call me **Rose**. I am a third-year undergraduate student at Shenzhen University, majoring in Computer Science.
 
-My GPA is 89.6/100 (4.03/4.5) and I am ranked 10th out of 197 students in my previous 3-year academic studies.
+My GPA is 90.2/100 (4.06/4.5) and I am ranked 9th out of 200 students in my previous 3-year academic studies.
 
 My Hobbies: Watching films🎦, swimming🏊, yoga🧘,...
 
