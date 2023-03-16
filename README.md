@@ -11,7 +11,7 @@ My Hobbies: Watching films🎦, swimming🏊, yoga🧘,...
 
 My Email: ziruizhao0222@outlook.com
 
-CV: [my cv](Zirui Zhao Resume.pdf) is available for your reference.
+CV: [my cv]([Zirui Zhao Resume.pdf](https://github.com/zzr22222/zzr22222.github.io/blob/943664c7b934ccfd3a4d48b92cd73e3a150540b5/Zirui%20Zhao%20Resume.pdf)) is available for your reference.
 ### Scientific research achievements
 
 My research experience includes designing an emotion recognition framework called MW-Emotion, which utilizes low-cost, universal, and portable commercial wearable devices to perceive multi-source sensing data. This project was published in ICECI 2021 Edge Computing and IoT: Systems, Management and Security and the title of the paper is "Wearable-based Human Emotion Inference System."Here is my paper:[Wearable-based Human Emotion Inference System](https://link.springer.com/chapter/10.1007/978-3-031-04231-7_12)
