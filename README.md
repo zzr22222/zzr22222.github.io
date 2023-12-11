@@ -1,7 +1,7 @@
 # Portfolio Biography
 ### Personal data
 
-Hello! 👋  My name is **Zirui Zhao**,but you can call me **Rose**. I am a third-year undergraduate student at Shenzhen University, majoring in Computer Science.
+Hello! 👋  My name is **Zirui Zhao**,you can also call me **Rose**. I am a third-year undergraduate student at Shenzhen University, majoring in Computer Science.
 
 My GPA is 89.5/100 (4.08/4.5) and I am ranked 8th out of 201 students in my previous 3-year academic studies.
 
